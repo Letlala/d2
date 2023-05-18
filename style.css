@@ -1,0 +1,24 @@
+body {
+    font-size: 15pt;
+    background: saddlebrown;
+  
+  
+  
+}
+img{width:100%}
+h1 {font-size: 50pt;}
+p{color:black }
+.sign {color: white;
+  font-size: 10pt
+}
+
+.black{ color:black;
+  display: block;
+  margin:20px;
+  background:tan ;
+  padding: 30px;
+  box-shadow:20px 10px 10px skyblue;
+font-style: italic;
+font-size: larger
+  
+}
